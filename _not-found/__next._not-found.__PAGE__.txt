@@ -1,0 +1,58 @@
+1:"$Sreact.fragment"
+2:"/heal/_next/static/chunks/3j1z41cfgztq3.js"
+3:"/heal/_next/static/chunks/1i9bj-q77nvfj.js"
+4:"ProgressProvider"
+5:I[33492,["$2","$3"],"$4"]
+6:I[48303,["$2","$3"],"SiteHeader"]
+7:"/heal/_next/static/chunks/3qfy96eoyh-ek.js"
+8:I[39756,["$7"],"default"]
+9:I[37457,["$7"],"default"]
+a:"/heal/_next/static/chunks/05vucw8mtrxb_.js"
+b:I[22016,["$2","$3","$a"],""]
+c:I[78600,["$2","$3"],"BreatheNow"]
+d:I[89752,["$2","$3"],"MobileNav"]
+18:"ViewportBoundary"
+19:I[97367,["$7"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$7"],"$1a"]
+1c:"$Sreact.suspense"
+:HL["/heal/_next/static/chunks/328ssl2oqe_0t.css","style"]
+f:X
+12:X
+12:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-xl px-5 py-16","children":[["$","p",null,{"className":"text-sm font-medium tracking-[0.14em] text-primary uppercase","children":"Missing page"}],["$","h1",null,{"className":"mt-2 font-serif text-4xl tracking-tight","children":"That page is not here."}],["$","p",null,{"className":"mt-4 text-base leading-7 text-muted-foreground","children":"The lesson may have been renamed, or the address was typed with a slip. The library still has the full set."}],"$L14"]}],["$L15"],"$L16"]}],"p":"$@17","v":null,"s":"$f"}}]]
+10:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/heal/_next/static/chunks/328ssl2oqe_0t.css","precedence":"next"}],["$","script","script-0",{"src":"/heal/_next/static/chunks/3j1z41cfgztq3.js","async":true}],["$","script","script-1",{"src":"/heal/_next/static/chunks/1i9bj-q77nvfj.js","async":true}]],["$","html",null,{"lang":"en","className":"zt62-W_variable TlCCyW_variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[70] focus:rounded-full focus:bg-card focus:px-4 focus:py-2 focus:text-foreground focus:shadow","children":"Skip to content"}],["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"id":"content","tabIndex":-1,"className":"flex-1 outline-none","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","div",null,{"className":"mx-auto w-full max-w-xl px-5 py-16","children":[["$","p",null,{"className":"text-sm font-medium tracking-[0.14em] text-primary uppercase","children":"Missing page"}],["$","h1",null,{"className":"mt-2 font-serif text-4xl tracking-tight","children":"That page is not here."}],["$","p",null,{"className":"mt-4 text-base leading-7 text-muted-foreground","children":"The lesson may have been renamed, or the address was typed with a slip. The library still has the full set."}],["$","$Lb",null,{"href":"/library","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-11 gap-1.5 px-4 text-base has-data-[icon=inline-end]:pr-3 has-data-[icon=inline-start]:pl-3 mt-6","children":"Go to the library"}]]}],[]]}]}],["$","footer",null,{"className":"border-t border-border bg-card","children":["$","div",null,{"className":"mx-auto w-full max-w-5xl px-5 pt-8 pb-[calc(7rem+env(safe-area-inset-bottom))] md:pb-24","children":[["$","p",null,{"className":"max-w-xl font-serif text-xl leading-snug text-foreground","children":["If things feel heavy, talk to someone you trust, or SADAG on"," ",["$","a",null,{"href":"tel:0800567567","className":"underline decoration-primary/40 underline-offset-4","children":"0800 567 567"}],"."]}],["$","p",null,{"className":"mt-4 max-w-xl text-sm leading-6 text-muted-foreground","children":"HEAL is general wellness education from Nkosenhle Sondezi in Vryheid, KwaZulu-Natal. These pages are not medical advice, a diagnosis, or a substitute for a clinic, counsellor, or doctor."}],["$","p",null,{"className":"mt-6 text-sm text-foreground","children":"Health, Education, Awareness"}]]}]}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"HEAL — Health, Education, Awareness"}],["$","meta","1",{"name":"description","content":"Nine short wellness lessons on health, education, and awareness, written by Nkosenhle Sondezi in Vryheid, KwaZulu-Natal."}],["$","meta","2",{"property":"og:title","content":"HEAL — Health, Education, Awareness"}],["$","meta","3",{"property":"og:description","content":"Nine short wellness lessons on health, education, and awareness, written by Nkosenhle Sondezi in Vryheid, KwaZulu-Natal."}],"$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]}],null]}],"$L2f"]}],"p":"$@30","v":null,"s":"$f"}},"a":"$@31","u":"$@32","b":"yIaoBcgn8it501VKg7Mkb"}
+33:I[97367,["$7"],"OutletBoundary"]
+35:I[27201,["$7"],"IconMark"]
+14:["$","$Lb",null,{"href":"/library","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-11 gap-1.5 px-4 text-base has-data-[icon=inline-end]:pr-3 has-data-[icon=inline-start]:pl-3 mt-6","children":"Go to the library"}]
+15:["$","script","script-0",{"src":"/heal/_next/static/chunks/05vucw8mtrxb_.js","async":true}]
+16:["$","$L33",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@34"}]}]
+1d:["$","meta","4",{"property":"og:site_name","content":"HEAL"}]
+1e:["$","meta","5",{"property":"og:locale","content":"en_ZA"}]
+1f:["$","meta","6",{"property":"og:image","content":"https://internet-solutionist.github.io/heal/opengraph-image?36f46b72df91a0ab"}]
+20:["$","meta","7",{"property":"og:image:type","content":"image/png"}]
+21:["$","meta","8",{"property":"og:image:width","content":"1200"}]
+22:["$","meta","9",{"property":"og:image:height","content":"630"}]
+23:["$","meta","10",{"property":"og:image:alt","content":"HEAL — Health, Education, Awareness. Lessons from Nkosenhle Sondezi in Vryheid."}]
+24:["$","meta","11",{"property":"og:type","content":"website"}]
+25:["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}]
+26:["$","meta","13",{"name":"twitter:title","content":"HEAL — Health, Education, Awareness"}]
+27:["$","meta","14",{"name":"twitter:description","content":"Nine short wellness lessons on health, education, and awareness, written by Nkosenhle Sondezi in Vryheid, KwaZulu-Natal."}]
+28:["$","meta","15",{"name":"twitter:image","content":"https://internet-solutionist.github.io/heal/twitter-image?9c477fb81315e461"}]
+29:["$","meta","16",{"name":"twitter:image:alt","content":"HEAL — Health, Education, Awareness. Lessons from Nkosenhle Sondezi in Vryheid."}]
+2a:["$","meta","17",{"name":"twitter:image:type","content":"image/png"}]
+2b:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
+2c:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
+2d:["$","link","20",{"rel":"icon","href":"/heal/icon.svg?icon.0n7mcp-i35gn4.svg","sizes":"any","type":"image/svg+xml"}]
+2e:["$","$L35","21",{}]
+2f:["$","meta",null,{"name":"next-size-adjust","content":""}]
+f:300
+34:null
+32:true
+f:C
+31:0
+11:"$undefined"
+e:"$undefined"
+30:"$undefined"
+17:"$undefined"
